@@ -7,7 +7,7 @@
       - video: src:'xxx.mp4' + img:(cover image, optional)
       - t = titles [Kurdish, English, Arabic], d = descriptions [Kurdish, English, Arabic]
    ===================================================== */
-const PROFILE_IMG='me1.jpg';
+const PROFILE_IMG='me1.JPG';
 const CV_FILE='';
 
 const DES=[
