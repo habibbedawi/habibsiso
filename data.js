@@ -67,7 +67,7 @@ const DES=[
    t:[' لۆگۆ بۆ رێکخراوی بازان', ' bazan organization logo', 'شعار منظمة بازان  '],
    d:[' لۆگۆ بۆ رێکخراوی بازان', ' bazan organization logo', 'شعار منظمة بازان  ']},
    
-   {cat:'videos', type:'video', src:'1.mp4', img:'23.jpg',
+   {cat:'videos', type:'video', src:'4.mp4', img:'23.jpg',
    t:[' سەرۆک نێچیرڤان بارزانی', 'president nechirvan barzani ', 'رئیس نێچیرڤان بارزانی '],
    d:['نموونەی ڤیدیۆ:  بۆ سەرۆک نێچیرڤان بارزانی    .', 'Sample video: for president neChirvan barzani', 'فيديو تجريبي: رئیس نچیرڤان بارزانی.']},
   {cat:'videos', type:'video', src:'2.mp4', img:'23.jpg',
@@ -76,7 +76,7 @@ const DES=[
   {cat:'videos', type:'video', src:'3.mp4', img:'23.jpg',
    t:[' سەرۆک نێچیرڤان بارزانی', 'president nechirvan barzani ', 'رئیس نێچیرڤان بارزانی '],
    d:['نموونەی ڤیدیۆ:  بۆ سەرۆک نێچیرڤان بارزانی    .', 'Sample video: for president neChirvan barzani', 'فيديو تجريبي: رئیس نچیرڤان بارزانی.']},
-  {cat:'videos', type:'video', src:'4.mp4', img:'23.jpg',
+  {cat:'videos', type:'video', src:'1.mp4', img:'23.jpg',
    t:[' سەرۆک نێچیرڤان بارزانی', 'president nechirvan barzani ', 'رئیس نێچیرڤان بارزانی '],
    d:['نموونەی ڤیدیۆ:  بۆ سەرۆک نێچیرڤان بارزانی    .', 'Sample video: for president neChirvan barzani', 'فيديو تجريبي: رئیس نچیرڤان بارزانی.']}
   ];
