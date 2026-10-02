@@ -8,7 +8,7 @@
       - t = titles [Kurdish, English, Arabic], d = descriptions [Kurdish, English, Arabic]
    ===================================================== */
 const PROFILE_IMG='me1.JPG';
-const CV_FILE='';
+const CV_FILE='Doc1.pdf';
 
 const DES=[
   {cat:'posters', type:'image', img:'24.jpg',
